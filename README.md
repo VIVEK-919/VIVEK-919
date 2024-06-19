@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VIVEK-919
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vivekbh919@gmail.com
 - 😄 Pronouns: VIVEK KUMAR BHARTI
